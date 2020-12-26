@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/iampranav/static/css/main.3a65ec82.chunk.css",
+    "main.js": "/iampranav/static/js/main.c8a52b9b.chunk.js",
+    "main.js.map": "/iampranav/static/js/main.c8a52b9b.chunk.js.map",
+    "runtime-main.js": "/iampranav/static/js/runtime-main.9169cc41.js",
+    "runtime-main.js.map": "/iampranav/static/js/runtime-main.9169cc41.js.map",
+    "static/js/2.87c0bcde.chunk.js": "/iampranav/static/js/2.87c0bcde.chunk.js",
+    "static/js/2.87c0bcde.chunk.js.map": "/iampranav/static/js/2.87c0bcde.chunk.js.map",
+    "index.html": "/iampranav/index.html",
+    "precache-manifest.d6a42f7da32034db2806b5360e3e7a0c.js": "/iampranav/precache-manifest.d6a42f7da32034db2806b5360e3e7a0c.js",
+    "service-worker.js": "/iampranav/service-worker.js",
+    "static/css/main.3a65ec82.chunk.css.map": "/iampranav/static/css/main.3a65ec82.chunk.css.map",
+    "static/js/2.87c0bcde.chunk.js.LICENSE.txt": "/iampranav/static/js/2.87c0bcde.chunk.js.LICENSE.txt",
+    "static/media/background2.jpg": "/iampranav/static/media/background2.25d5f08d.jpg",
+    "static/media/iampranav.jpg": "/iampranav/static/media/iampranav.19d3f324.jpg",
+    "static/media/picture.png": "/iampranav/static/media/picture.3f9ffe40.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9169cc41.js",
+    "static/js/2.87c0bcde.chunk.js",
+    "static/css/main.3a65ec82.chunk.css",
+    "static/js/main.c8a52b9b.chunk.js"
+  ]
+}
