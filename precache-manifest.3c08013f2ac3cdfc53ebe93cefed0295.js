@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af8c6568b34cb97e8d23f49a9774b4c0",
+    "revision": "9545feee4951de76583d3febf05278bb",
     "url": "/iampranav/index.html"
   },
   {
-    "revision": "a99e9bc94464a6a3fbcc",
+    "revision": "47da4c398a7285683edc",
     "url": "/iampranav/static/css/main.3a65ec82.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iampranav/static/js/2.87c0bcde.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a99e9bc94464a6a3fbcc",
-    "url": "/iampranav/static/js/main.c8a52b9b.chunk.js"
+    "revision": "47da4c398a7285683edc",
+    "url": "/iampranav/static/js/main.2987c90f.chunk.js"
   },
   {
     "revision": "49b74d3caa423e1ba325",
     "url": "/iampranav/static/js/runtime-main.9169cc41.js"
   },
   {
-    "revision": "25d5f08daf1104a18a53142b59b37173",
-    "url": "/iampranav/static/media/background2.25d5f08d.jpg"
+    "revision": "14f12c38ab0912024bc1c126020fe40c",
+    "url": "/iampranav/static/media/background2.14f12c38.jpg"
   },
   {
     "revision": "19d3f3243680257654910c6118a8871f",
