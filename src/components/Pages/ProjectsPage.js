@@ -123,7 +123,7 @@ const ProjectsPage = () => {
   return (
     <Box className={`${classes.columnDiv} ${classes.mainDiv}`} id="Projects">
       <Typography className={`${classes.projectText} ${classes.headerText}`}>
-        Videos
+        Media
       </Typography>
       <Divider className={`${classes.divider} ${classes.projectsDivider}`} />
       <Project

@@ -105,7 +105,7 @@ const NavBar = () => {
         }}
       >
         <List onClick={handleDrawerToggle}>
-          {["ABOUT ME", "PROJECTS", "CONTACT"].map((text, index) => (
+          {["ABOUT ME", "MEDIA", "CONTACT"].map((text, index) => (
             <ListItem
               button
               component="a"
